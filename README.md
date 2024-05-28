@@ -1,4 +1,3 @@
-# Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,40 +49,40 @@
     </style>
 </head>
 <body>
-    <!-- Header Section -->
+    
     <header>
         <div class="container">
-            <h1>Your Name</h1>
-            <h2>Your Designation</h2>
-            <p>Your Title Line</p>
+            <h1>Muneeb Ahmad</h1>
+            <h2>Johar Town Laahore</h2>
+            <p> Title Line</p>
         </div>
     </header>
 
-    <!-- Education Section -->
+    
     <section id="education">
         <div class="container">
             <h2>Education</h2>
             <ul>
-                <li><strong>Metric:</strong> School Name</li>
-                <li><strong>Intermediate:</strong> College Name</li>
-                <li><strong>Bachelor of Science:</strong> University Name</li>
+                <li><strong>Metric:</strong> The Educators</li>
+                <li><strong>Intermediate:</strong> Punjab College</li>
+                <li><strong>Bachelor of Science:</strong> University of Manahement and Technology</li>
             </ul>
         </div>
     </section>
 
-    <!-- Skills Section -->
+    
     <section id="skills">
         <div class="container">
             <h2>Skills</h2>
             <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
+                <li>Pyhton Programmer</li>
+                <li>C++ Programmer</li>
+                <li>3D game Developer</li>
             </ul>
         </div>
     </section>
 
-    <!-- Experience Section -->
+   
     <section id="experience">
         <div class="container">
             <h2>Experience</h2>
@@ -94,7 +93,7 @@
         </div>
     </section>
 
-    <!-- Complete Projects Section -->
+    
     <section id="projects">
         <div class="container">
             <h2>Complete Projects</h2>
@@ -105,7 +104,7 @@
         </div>
     </section>
 
-    <!-- Contact Form Section -->
+   
     <section id="contact">
         <div class="container">
             <h2>Contact Me</h2>
